@@ -1,0 +1,7 @@
+print("Hello, World!")
+print("My name is Clover")
+print("I am a cat")
+print("I am 1 year old")
+print("I am a girl")
+print("I am a cat")
+print("I am a cat")
